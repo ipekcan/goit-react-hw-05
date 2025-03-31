@@ -1,0 +1,4 @@
+.casts {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    
+}
+.poster img{
+    width: 250px;
+}
+.movieCardDetail {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+}
+.genres {
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+.genres > li {
+    list-style-type: none;
+}
